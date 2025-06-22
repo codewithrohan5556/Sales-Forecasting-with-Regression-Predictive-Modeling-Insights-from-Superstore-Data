@@ -35,6 +35,7 @@ The dataset contains transactional information from a fictional superstore, incl
 ├── Regression Project.ipynb # Full notebook with code and outputs
 ├── README.md # Project overview and description
 └── dataset.csv (if applicable) # Dataset used in the project
+
 ---
 
 ## 📊 Exploratory Data Analysis
