@@ -32,9 +32,19 @@ The dataset contains transactional information from a fictional superstore, incl
  ---
 
 ## 📂 Project Structure
-├── Regression Project.ipynb # Full notebook with code and outputs
-├── README.md # Project overview and description
-└── dataset.csv (if applicable) # Dataset used in the project
+
+│
+├── 📄 README.md               # Project overview and documentation
+├── 📊 Regression Project.ipynb # Main Jupyter notebook with code & visuals
+├── 📁 data
+│   └── superstore.csv         # Raw dataset (or processed if applicable)
+├── 📁 images
+│   └── sales_plot.png         # All visualizations used in notebook
+├── 📁 models
+│   └── rf_model.pkl           # Saved regression models (optional)
+├── 📁 reports
+│   └── EDA_summary.pdf        # Optional: auto-generated EDA report
+└── 📄 requirements.txt        # Python dependencies (pip freeze > requirements.txt)
 
 ---
 
