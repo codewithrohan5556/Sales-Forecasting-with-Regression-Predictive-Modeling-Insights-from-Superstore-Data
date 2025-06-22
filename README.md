@@ -56,7 +56,9 @@ The dataset contains transactional information from a fictional superstore, incl
 │   └── 📑 EDA_summary.pdf
 │
 ├── 📘 README.md                 # Project documentation
-└──📄 requirements.txt          # Python dependencies
+├── 📄 requirements.txt          # Python dependencies
+└── 📜 LICENSE                   # License (MIT, Apache, etc.)
+
 
 ---
 
