@@ -30,6 +30,9 @@ The dataset contains transactional information from a fictional superstore, incl
 - **Target**: Sales
 
  ---
+ <h2>📁 Project Structure</h2>
+  <pre><code>
+
 superstore-regression-analysis/
 ├── 📁 data/                  # Raw or processed dataset
 │   └── 📄 superstore.csv
@@ -54,7 +57,8 @@ superstore-regression-analysis/
 │
 ├── 📘 README.md              # Project overview and documentation
 ├── 📄 requirements.txt       # Python dependencies list
-└── 📜 LICENSE                # License information (MIT/Apache/etc.)
+└── 📜 LICENSE                
+  </code></pre>
 ---
 
 ## 📊 Exploratory Data Analysis
