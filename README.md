@@ -108,9 +108,7 @@ This project clearly demonstrates how regression techniques can effectively mode
 
 ## 🧰 Tools and Technologies
 
-| Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn |
-|--------|--------|-------|--------------|------------|---------|
+| Python | Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn |
+|--------|--------|-------|--------------|---------|------------|---------|
 
 ---
-
-
