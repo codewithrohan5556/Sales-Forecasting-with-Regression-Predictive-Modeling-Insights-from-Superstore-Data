@@ -30,32 +30,31 @@ The dataset contains transactional information from a fictional superstore, incl
 - **Target**: Sales
 
  ---
-📦 superstore-regression-analysis/
-├── 📁 data/                     # 📊 Dataset (raw or processed)
+superstore-regression-analysis/
+├── 📁 data/                  # Raw or processed dataset
 │   └── 📄 superstore.csv
 │
-├── 🖼️ images/                   # 📈 Plots and charts for README or notebooks
-│   ├── 🖼️ sales_plot.png
-│   ├── 🖼️ profit_vs_sales.png
-│   └── 🖼️ discount_trend.png
+├── 📁 images/                # Plots and charts for README/notebooks
+│   ├── 🖼️  sales_plot.png
+│   ├── 🖼️  profit_vs_sales.png
+│   └── 🖼️  discount_trend.png
 │
-├── 📓 notebooks/                # 📒 Jupyter Notebooks
+├── 📁 notebooks/             # Jupyter notebooks
 │   └── 📓 Superstore_Regression.ipynb
 │
-├── 🧠 src/                      # 🧪 Scripts for modeling and preprocessing
-│   ├── 🧠 model_utils.py        # 🔧 Training, evaluation functions
-│   └── 🧹 preprocessing.py      # 🧼 Cleaning and feature engineering
+├── 📁 src/                   # Python scripts for modeling and preprocessing
+│   ├── 🧠 model_utils.py     # Model training/evaluation helpers
+│   └── 🧹 preprocessing.py   # Data cleaning and transformation
 │
-├── 📦 models/                   # 🧠 Serialized ML models
+├── 📁 models/                # Serialized/trained ML models
 │   └── 🧠 rf_model.pkl
 │
-├── 📑 reports/                  # 🗒️ PDF reports or summaries
+├── 📁 reports/               # Exploratory analysis reports or exports
 │   └── 📑 EDA_summary.pdf
 │
-├── 📘 README.md                 # 📝 Project documentation
-├── 📄 requirements.txt          # 📦 Python dependencies
-└── 📜 LICENSE                   
-
+├── 📘 README.md              # Project overview and documentation
+├── 📄 requirements.txt       # Python dependencies list
+└── 📜 LICENSE                # License information (MIT/Apache/etc.)
 ---
 
 ## 📊 Exploratory Data Analysis
