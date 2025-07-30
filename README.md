@@ -30,34 +30,31 @@ The dataset contains transactional information from a fictional superstore, incl
 - **Target**: Sales
 
  ---
-
-## 📂 Project Structure
-
 📦 superstore-regression-analysis/
-├── 📁 data/                     # Raw or processed dataset
+├── 📁 data/                     # 📊 Dataset (raw or processed)
 │   └── 📄 superstore.csv
 │
-├── 🖼️ images/                   # Plots and charts for README/notebook
+├── 🖼️ images/                   # 📈 Plots and charts for README or notebooks
 │   ├── 🖼️ sales_plot.png
 │   ├── 🖼️ profit_vs_sales.png
 │   └── 🖼️ discount_trend.png
 │
-├── 📓 notebooks/                # Jupyter notebooks
+├── 📓 notebooks/                # 📒 Jupyter Notebooks
 │   └── 📓 Superstore_Regression.ipynb
 │
-├── 🧠 src/                      # Python scripts for modeling and preprocessing
-│   ├── 🧠 model_utils.py
-│   └── 🧹 preprocessing.py
+├── 🧠 src/                      # 🧪 Scripts for modeling and preprocessing
+│   ├── 🧠 model_utils.py        # 🔧 Training, evaluation functions
+│   └── 🧹 preprocessing.py      # 🧼 Cleaning and feature engineering
 │
-├── 📦 models/                   # Saved ML models
+├── 📦 models/                   # 🧠 Serialized ML models
 │   └── 🧠 rf_model.pkl
 │
-├── 📑 reports/                  # Optional EDA summaries or reports
+├── 📑 reports/                  # 🗒️ PDF reports or summaries
 │   └── 📑 EDA_summary.pdf
 │
-├── 📘 README.md                 # Project documentation
-├── 📄 requirements.txt          # Python dependencies
-└── 📜 LICENSE                   # License (MIT, Apache, etc.)
+├── 📘 README.md                 # 📝 Project documentation
+├── 📄 requirements.txt          # 📦 Python dependencies
+└── 📜 LICENSE                   
 
 ---
 
